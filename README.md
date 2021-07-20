@@ -11,7 +11,7 @@ Login with xbox Account on web PHP
 6. Choose "Redirect URIs" -> "Add a Redirect URI"
 7. Click "Add a platform" -> "Mobile and desktop applications"
 8. Enter custom redirect URI (Use something like "https://localhost/success.php" for testing)
-9. From the overview of your app page, copy "Application (client) ID" to CLIENT_ID below in the py code
-10. Replace REDIRECT_URI in the py code with the actual URI set in Azure app registration
+9. From the overview of your app page, copy "Application (client) ID" to CLIENT_ID below in the php code
+10. Replace REDIRECT_URI in the php code with the actual URI set in Azure app registration
 11. Test and enjoy;)
 
