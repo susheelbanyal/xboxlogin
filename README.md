@@ -1,8 +1,7 @@
 # xboxlogin
 Login with xbox Account on web PHP
 
-"""
-Sign in to Xbox Live with OAUTH2
+# Sign in to Xbox Live with OAUTH2
 
 1. Go to https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade
 2. Register new app ("+ New registration")
@@ -14,5 +13,5 @@ Sign in to Xbox Live with OAUTH2
 2.6. Enter custom redirect URI (Use something like "https://localhost/oauth_success" for testing)
 3. From the overview of your app page, copy "Application (client) ID" to CLIENT_ID below in the py code
 4. Replace REDIRECT_URI in the py code with the actual URI set in Azure app registration
-5. Test and profit ;)
-"""
+5. Test and enjoy;)
+
